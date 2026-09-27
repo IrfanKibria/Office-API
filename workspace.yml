@@ -1,0 +1,24 @@
+opencollection: 1.0.0
+info:
+  name: "My Workspace"
+  type: workspace
+
+collections:
+  - name: "Sample API Collection"
+    path: "C:/Users/Sohel/Documents/bruno/Sample API Collection"
+  - name: "Bkash 3rd Api"
+    path: "C:/Users/Sohel/Documents/bruno/Bkash 3rd Api"
+  - name: "Islami Bank Report"
+    path: "C:/Users/Sohel/Documents/bruno/Islami Bank Report"
+  - name: "Test TL Payment API"
+    path: "C:/Users/Sohel/Documents/bruno/Test TL Payment API"
+  - name: "Holdong Test"
+    path: "C:/Users/Sohel/Documents/bruno/Holdong Test"
+  - name: "Nagad Holding"
+    path: "C:/Users/Sohel/Documents/bruno/Nagad Holding"
+  - name: "Nagad TL"
+    path: "C:/Users/Sohel/Documents/bruno/Nagad TL"
+
+specs:
+
+docs: ''
